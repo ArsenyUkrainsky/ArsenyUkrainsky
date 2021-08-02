@@ -7,7 +7,7 @@
 * :flying_saucer: Cтремлюсь освоить новые навыки и фреймворки
 * :writing_hand: Хочу писать читабельный DRY код
 
-## Мой стек :toolbox:
+### Мой стек :toolbox:
 
 📌 БЭМ, HTML, CSS, Figma, JavaScript, React, Webpack, Node, Express, MongoDB, Git
 
@@ -16,5 +16,5 @@
 
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=ArsenyUkrainsky&show_icons=true&count_private=true)  
 
-## Контакты
+### Контакты
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArsenyUkrainsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/uArseny)
