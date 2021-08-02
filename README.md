@@ -8,7 +8,7 @@
 
 ## Мой стек :toolbox:
 
-🎉 БЭМ, HTML, CSS, Figma, JavaScript, React, Webpack, Node, Express, MongoDB, Git
+📌 БЭМ, HTML, CSS, Figma, JavaScript, React, Webpack, Node, Express, MongoDB, Git
 
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=ArsenyUkrainsky&show_icons=true&count_private=true)  
 
