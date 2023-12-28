@@ -1,15 +1,14 @@
 ## Привет, меня зовут Арсений :handshake:
 
-* :artificial_satellite: Я инженер, в настоящее время занимаюсь проектированием и разработкой источников питания для космической техники
+* :dart: Я frontend developer, в настоящее время работаю над b2b проектом в продуктовой компании
 * :man_student: Хочу научиться полному стеку современных веб-технологий
-* :dart: Стремлюсь к работе с настоящими боевыми проектами
-* :beers: Хочу работать в дружном коллективе с опытными коллегами
-* :flying_saucer: Cтремлюсь освоить новые навыки и фреймворки
-* :writing_hand: Хочу писать читабельный DRY код
+* :beers: Работаю в дружном коллективе с опытными коллегами
+* :flying_saucer: Осваиваю новые навыки и фреймворки
+* :writing_hand: Cтремлюсь писать читабельный DRY код
 
 ### Мой стек :toolbox:
 
-📌 БЭМ, HTML, CSS, Flex box, Grid, Кросс-браузерная и адаптивная верстка, Figma, JavaScript, DOM, ООП, React, Webpack, Babel, Node.js, Express, REST, MongoDB, Git
+📌 БЭМ, HTML, CSS, Flex box, Grid, Кросс-браузерная и адаптивная верстка, Figma, JavaScript, DOM, ООП, React, Webpack, Babel, Node.js, Express, REST, MongoDB, Git, Redux, reselect, redux-toolkit, RamdaJS, TypeScript, Nextjs
 
 
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
